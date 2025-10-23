@@ -37,15 +37,9 @@ That experience taught me teamwork, precision, and how to stay calm under pressu
 
 ---
 
-## 🏅 Fun Facts
-🥇 Greek National **Canoe-Kayak Slalom** medalist  
-☕ Fueled by espresso & late-night commits  
-
----
 
 ## 📊 GitHub Stats
 
-![Stavros's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Skopelitis1&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Skopelitis1&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
