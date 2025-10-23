@@ -42,12 +42,7 @@
 
 
 
-<div align="center">
 
-<!-- Top languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skopelitis1&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="top-langs"/>
-  
-</div>
 
 ---
 
@@ -57,6 +52,14 @@ That experience taught me teamwork, precision, and how to stay calm under pressu
 
 
 ---
+
+
+<div align="center">
+
+<!-- Top languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skopelitis1&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="top-langs"/>
+  
+</div>
 
 
 ## 🌐 Connect with me
