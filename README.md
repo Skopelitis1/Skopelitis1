@@ -2,6 +2,7 @@
 <!-- Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E0249,100:570A57&height=160&section=header&text=&fontColor=ffffff&animation=twinkling" width="100%" alt="header"/>
+  Full-Stack Developer & CS Student
 </p><div align="center">
 
 # 👋 Hi, I'm <strong>Stavros Skopelitis</strong>
