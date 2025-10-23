@@ -1,7 +1,7 @@
 
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E0249,100:570A57&height=160&section=header&text=Hey%20there!%20I'm%20Stavros%20🚀&fontColor=ffffff&fontSize=30&animation=twinkling" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E0249,100:570A57&height=160&section=header&text=&fontColor=ffffff&animation=twinkling" width="100%" alt="header"/>
 </p><div align="center">
 
 # 👋 Hi, I'm <strong>Stavros Skopelitis</strong>
