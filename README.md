@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm **Stavros Skopelitis**
 
-<!--
-**Skopelitis1/Skopelitis1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student @ [AUEB](https://www.aueb.gr/)  
+💡 Passionate about **Full-Stack Web Development** & **Cross-Platform Mobile Apps**  
+⚙️ I love turning ideas into clean, functional code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tech Stack
+`ReactJS` • `NodeJS` • `JavaScript` • `React Native` • `HTML` • `CSS` • `SQL` • `Bootstrap` • `C` • `C++`
+
+---
+
+## 🧩 Featured Projects
+- **Library Management Web App** → Full-stack app (Node.js + EJS) with search, filtering & sorting  
+- **React Rebuild** → Modular front-end architecture with reusable React components  
+- **Library Mobile App** → Cross-platform version in React Native for iOS & Android  
+
+---
+
+## 🎧 Beyond Code
+Before diving into software, I worked as a **lighting technician & sound engineer** for major live events.  
+That experience taught me teamwork, precision, and how to stay calm under pressure.
+
+---
+
+## 🏅 Fun Facts
+- 🥇 Greek National **Canoe-Kayak Slalom** medalist  
+- ☕ Fueled by espresso & late-night commits  
+
+---
+
+## 📬 Let's Connect
+📧 [stavroskope@gmail.com](mailto:stavroskope@gmail.com)
+
