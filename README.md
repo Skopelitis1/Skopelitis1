@@ -12,9 +12,16 @@
 
 <!-- small flair -->
   
-![Profile Views](https://komarev.com/ghpvc/?username=Skopelitis1&label=Profile%20views&color=570A57&style=flat)
 
 </div>
+
+---
+
+## 🚀 Featured Projects
+📚 **Library Management Web App** — Full-stack app *(Node.js + EJS)* with search, filtering & sorting  
+⚛️ **React Rebuild** — Modular front-end architecture with reusable React components  
+📱 **Library Mobile App** — Cross-platform version built with React Native for iOS & Android  
+
 
 ---
 
@@ -32,18 +39,8 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=ffffff)
 
----
 
-## 🚀 Featured Projects
-📚 **Library Management Web App** — Full-stack app *(Node.js + EJS)* with search, filtering & sorting  
-⚛️ **React Rebuild** — Modular front-end architecture with reusable React components  
-📱 **Library Mobile App** — Cross-platform version built with React Native for iOS & Android  
 
----
-
-## 🎧 Beyond Code
-Before diving into software, I worked as a **lighting technician & sound engineer** for major live events.  
-That experience taught me teamwork, precision, and how to stay calm under pressure.
 
 ---
 
@@ -57,6 +54,14 @@ That experience taught me teamwork, precision, and how to stay calm under pressu
 </div>
 
 ---
+
+## 🎧 Beyond Code
+Before diving into software, I worked as a **lighting technician & sound engineer** for major live events.  
+That experience taught me teamwork, precision, and how to stay calm under pressure.
+
+
+---
+
 
 ## 🌐 Connect with me
 
