@@ -1,9 +1,10 @@
+<div align="center" style="background-color:#0d1117; padding: 30px; border-radius: 20px;">
 
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E0249,100:570A57&height=160&section=header&text=&fontColor=ffffff&animation=twinkling" width="100%" alt="header"/>
-  Full-Stack Developer & CS Student
-</p><div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E0249,100:570A57&height=160&section=header&text=Full%20Stack%20Developer&fontColor=ffffff&fontSize=32&animation=twinkling" width="100%" alt="header"/>
+</p>
+<div align="center">
 
 # 👋 Hi, I'm <strong>Stavros Skopelitis</strong>
 
@@ -74,3 +75,4 @@ That experience taught me teamwork, precision, and how to stay calm under pressu
 
 <!-- Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:570A57,100:2E0249&height=120&section=footer)
+</div>
