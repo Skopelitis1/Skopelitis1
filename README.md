@@ -1,7 +1,8 @@
 
 <!-- Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2E0249,100:570A57&height=160&section=header&text=Hey%20there!%20I'm%20Stavros%20🚀&fontColor=ffffff&fontSize=30&animation=twinkling)
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E0249,100:570A57&height=160&section=header&text=Hey%20there!%20I'm%20Stavros%20🚀&fontColor=ffffff&fontSize=30&animation=twinkling" width="100%" alt="header"/>
+</p><div align="center">
 
 # 👋 Hi, I'm <strong>Stavros Skopelitis</strong>
 
@@ -50,12 +51,8 @@ That experience taught me teamwork, precision, and how to stay calm under pressu
 
 <div align="center">
 
-<!-- Main stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Skopelitis1&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats"/>
 <!-- Top languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skopelitis1&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="top-langs"/>
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=Skopelitis1&theme=tokyonight&hide_border=true" height="160" alt="streak"/>
   
 </div>
 
