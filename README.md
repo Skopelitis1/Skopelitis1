@@ -1,3 +1,5 @@
+<div style="background: linear-gradient(135deg,#2E0249 0%,#570A57 100%); padding:30px; border-radius:20px;">
+
 <!-- Header -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2E0249,100:570A57&height=160&section=header&text=Hey%20there!%20I'm%20Stavros%20🚀&fontColor=ffffff&fontSize=30&animation=twinkling)
 
@@ -72,3 +74,4 @@ That experience taught me teamwork, precision, and how to stay calm under pressu
 
 <!-- Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:570A57,100:2E0249&height=120&section=footer)
+</div>
