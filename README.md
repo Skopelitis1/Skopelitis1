@@ -22,11 +22,6 @@
 Before diving into software, I worked as a **lighting technician & sound engineer** for major live events.  
 That experience taught me teamwork, precision, and how to stay calm under pressure.
 
----
-
-## 🏅 Fun Facts
-- 🥇 Greek National **Canoe-Kayak Slalom** medalist  
-- ☕ Fueled by espresso & late-night commits  
 
 ---
 
