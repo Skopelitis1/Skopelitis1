@@ -28,3 +28,10 @@ That experience taught me teamwork, precision, and how to stay calm under pressu
 ## 📬 Let's Connect
 📧 [stavroskope@gmail.com](mailto:stavroskope@gmail.com)
 
+
+
+## 📊 GitHub Stats
+
+![Stavros's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Skopelitis1&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Skopelitis1&layout=compact&theme=radical)
