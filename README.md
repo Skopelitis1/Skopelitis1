@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Stavros Skopelitis**
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=28&fontAlignY=35&animation=twinkling)
 
 🎓 Computer Science student @ [AUEB](https://www.aueb.gr/)  
 💡 Passionate about **Full-Stack Web Development** & **Cross-Platform Mobile Apps**  
@@ -31,7 +31,5 @@ That experience taught me teamwork, precision, and how to stay calm under pressu
 
 
 ## 📊 GitHub Stats
-
-![Stavros's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Skopelitis1&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Skopelitis1&layout=compact&theme=radical)
