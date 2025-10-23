@@ -42,10 +42,6 @@
 
 
 
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
 <!-- Top languages -->
