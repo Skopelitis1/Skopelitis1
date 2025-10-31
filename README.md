@@ -22,7 +22,7 @@
 ## 🚀 Featured Projects
 📚 **Library Management Web App** — Full-stack app *(Node.js + EJS)* with search, filtering & sorting  
 ⚛️ **React Rebuild** — Modular front-end architecture with reusable React components  
-📱 **Library Mobile App** — Cross-platform version built with React Native for iOS & Android  
+📱 **Movie Mobile App** — Cross-platform version built with React Native for iOS & Android  
 
 
 ---
