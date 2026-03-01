@@ -20,9 +20,13 @@
 ---
 
 ## 🚀 Featured Projects
-📚 **Library Management Web App** — Full-stack app *(Node.js + EJS)* with search, filtering & sorting  
-⚛️ **React Rebuild** — Modular front-end architecture with reusable React components  
-📱 **Movie Mobile App** — Cross-platform version built with React Native for iOS & Android  
+
+* **📱 Cross-Platform Production App** – Contributing to a production ecosystem serving real clients, including a cross-platform mobile app (iOS & Android) and a web dashboard.
+    > *Note: Access to this repository is restricted for ethical and confidentiality reasons as it involves proprietary code for active clients.*
+* **🔍 GitHub Repository Explorer** – A performant single-page application built with React.js to search, filter, and sort GitHub repositories in real-time via the GitHub API.
+* **🎬 Movies Library Mobile App** – A full-featured mobile app for browsing trending movies and managing personal watchlists, integrated with TMDB API and Appwrite.
+
+--- 
 
 
 ---
