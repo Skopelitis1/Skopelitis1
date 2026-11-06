@@ -10,7 +10,7 @@
 
 # 👋 Hi, I'm **Stavros Skopelitis**
 
-🚀 **Full Stack Engineer** @ **[Quality & Reliability](https://www.qr.gr/)**  
+🚀 **Full Stack Engineer** @ **[Quality & Reliability](https://www.qnr.com.gr)**  
 🎓 *Computer Science Student @ [AUEB](https://www.aueb.gr/)*  
 
 <br/>
